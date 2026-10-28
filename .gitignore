@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+third_party_menagerie/
+data/raw/*.mp4
+data/raw/*.mov
+checkpoints/
+*.pt
+*.pth
+outputs/tmp/

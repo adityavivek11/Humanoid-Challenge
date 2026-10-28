@@ -1,0 +1,11 @@
+mujoco>=3.2
+numpy
+scipy
+opencv-python-headless
+mediapipe
+matplotlib
+imageio
+imageio-ffmpeg
+pyyaml
+tqdm
+torch
